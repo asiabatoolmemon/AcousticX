@@ -4,7 +4,7 @@ A sleek, responsive headphone product landing page built with **HTML5 and CSS3**
 
 <p align="center">
   <a href="https://asiabatoolmemon.github.io/AcousticX/">
-    <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fasiabatoolmemon.github.io%2FAcousticX%2F?w=1200" alt="AcousticX live website preview" width="100%">
+    <img src="./acousticx-preview.png" alt="AcousticX live website preview" width="100%">
   </a>
 </p>
 
