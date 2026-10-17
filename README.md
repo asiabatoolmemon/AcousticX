@@ -35,7 +35,7 @@ AcousticX is a single-page product landing page designed to present premium wire
 - Flexbox
 - Media Queries
 
-## ✦ What I Practised
+## ✦ What I Practiced
 
 - Structuring a page with semantic HTML
 - Styling layouts and spacing with CSS
